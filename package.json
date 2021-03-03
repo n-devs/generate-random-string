@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/n-devs/generate-random-string.git"
   },
-  "keywords": [],
+  "keywords": ["generate", "rendom","uid","generate-random","random-string","generate-string","generate-text","string","id","serial","uuid"],
   "author": "",
   "license": "ISC",
   "bugs": {
